@@ -1,4 +1,4 @@
-#BY Sudhanshu and Chutiakul Raman
+#BY Sudhanshu and Raghukul Raman
 
 # Competitive_programming
-CP
+Preperation for `ACM-ICPC`
